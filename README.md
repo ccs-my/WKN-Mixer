@@ -1,5 +1,3 @@
-# WKN-Mixer
-
 # Title
 Detection of Abnormal Temperature Increases for Dry-Type Transformers Based on Working Condition Recognition and WKN-Mixer
 
